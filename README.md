@@ -19,7 +19,6 @@ It's [Roxy](https://github.com/marklogic/roxy) on steroid and with a brain.
 
 * Java 8
 * Marklogic 8.0.4 (may work with older 8.0.x versions)
-* Dependency : Spring's RestTemplate
 
 ## How it works
 
